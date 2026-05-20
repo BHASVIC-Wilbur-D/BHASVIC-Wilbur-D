@@ -7,3 +7,6 @@
 - ✨ Some soft skills I have include communication, team work and problem solving due to my experience working as a junior assistant football coach.
 - 😄 Pronouns: He/him
 
+Links to repositories with my work in them:
+- https://github.com/BHASVIC-CompSci/java-bridging-lesson-BHASVIC-Wilbur-D
+  
